@@ -1,0 +1,29 @@
+%YAML 1.1
+--- !Material &1
+name: Filter
+guid: {a: 6000285946282205890, b: 2439041320888571526}
+xshader: {localId: 1, path: 00000000-0000-0000-0000-00000000001b--00000000-0000-0000-0000-00000000001b.xshader}
+properties:
+  __class: PropertySheet
+  name: ""
+  guid: {a: 4921301033101059070, b: 16010552111241229483}
+  floatmap:
+    __class: Map
+    _Intensity: 1
+  vec4map:
+    __class: Map
+  vec3map:
+    __class: Map
+  vec2map:
+    __class: Map
+  mat4map:
+    __class: Map
+  texmap:
+    __class: Map
+    _BaseTexture: {localId: 1, path: 00000000-0000-0000-0000-000000000026--00000000-0000-0000-0000-000000000026.png}
+  intmap:
+    __class: Map
+renderQueue: -1
+enabledMacros:
+  __class: Map
+mshaderPath: ""
